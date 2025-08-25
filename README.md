@@ -5,6 +5,8 @@
 
 ## How to install:
 First clone this repo if you have git installed on your machine: 
+https://github.com/mehtahet619/ChessCheater.git
+
 
 If you do not have git installed, you may download this repo as a zip by following this link: Zip Download
 
