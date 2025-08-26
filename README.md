@@ -13,4 +13,4 @@ If you do not have git installed, you may download this repo as a zip by followi
 Open google chrome and visit 'chrome://extensions'. Enable developer mode by clicking the toggle at the top right. Click 'Load Unpacked' and finally select the folder where you have cloned or extracted the repo. Activate the extension and done.
 
 
-## Please show some love guyz i got banned for testing this from chess.com
+## Please show some love guyz i got banned from chess.com for testing this 
